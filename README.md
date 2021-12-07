@@ -1,4 +1,5 @@
-<a href="https://www.buymeacoffee.com/RageSawyer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/RageSawyer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="100" width="390"></a>
+
 [![Website](https://img.shields.io/website?label=rageturk.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rageturk.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/RageSawyer?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRageSawyer&screen_name=RageSawyer)
 
